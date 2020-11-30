@@ -8,3 +8,8 @@ function hello() {
 function addUSer(user) {
     console.log(user);
 }
+
+//hamodi:s second function
+function listUSers(){
+    console.log(users);
+}
