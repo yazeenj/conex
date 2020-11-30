@@ -13,3 +13,7 @@ function addUSer(user) {
 function removeUser() {
     console.log("removed user");
 }
+//hamodi:s second function
+function listUSers(){
+    console.log(users);
+}
