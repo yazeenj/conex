@@ -9,6 +9,10 @@ function addUSer(user) {
     console.log(user);
 }
 
+//Yazeen Second function
+function removeUser() {
+    console.log("removed user");
+}
 //hamodi:s second function
 function listUSers(){
     console.log(users);
