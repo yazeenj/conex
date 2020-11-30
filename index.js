@@ -8,3 +8,8 @@ function hello() {
 function addUSer(user) {
     console.log(user);
 }
+
+//Yazeen Second function
+function removeUser() {
+    console.log("removed user");
+}
